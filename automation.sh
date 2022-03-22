@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-name="tayyab"
+name="parul"
 s3_bucket="your_bucket"
 
 # update the ubuntu repositories
