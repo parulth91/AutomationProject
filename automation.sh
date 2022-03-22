@@ -2,7 +2,7 @@
 
 # Variables
 name="parul"
-s3_bucket="your_bucket"
+s3_bucket="upgrad-parul123"
 
 # update the ubuntu repositories
 apt update -y
